@@ -11,4 +11,5 @@ The application has a few multiple choice questions and the ability to store top
 
 At the end of the quiz (when the user answers all questions or time is up), upon viewing their score, the user is able to enter their initials to add their score to the High Scores list. Once they enter their initials, the scoreboard will appear with an option to clear the board or restart the quiz.
 
-![Screenshot 2022-01-16 085446](https://user-images.githubusercontent.com/87239985/149663055-2fe8dcd2-a33a-411b-8f17-68b095915326.png)
+
+![Screenshot 2022-01-18 192103](https://user-images.githubusercontent.com/87239985/150040078-0fc002ff-6008-412b-8fc9-2bce7be06cf0.png)
